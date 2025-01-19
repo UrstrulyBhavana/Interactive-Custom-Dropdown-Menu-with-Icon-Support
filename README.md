@@ -59,3 +59,8 @@ for (option of options) {
         arrowIcon.classList.toggle("rotate");
     };
 }
+```
+
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/d8714591-c401-45e1-9de0-e909a920047c)
