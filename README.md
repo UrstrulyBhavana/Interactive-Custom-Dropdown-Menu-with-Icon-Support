@@ -1,5 +1,4 @@
 # 🎨 Custom Select Menu Design
----
 
 ## Demo.gif
 
