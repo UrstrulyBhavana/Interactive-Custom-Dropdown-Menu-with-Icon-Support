@@ -1,4 +1,11 @@
 # 🎨 Custom Select Menu Design
+---
+
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/d8714591-c401-45e1-9de0-e909a920047c)
+
+---
 
 A sleek and interactive **Custom Select Menu** for modern web applications. This project replaces the default dropdown with a beautifully designed, fully customizable select menu featuring smooth animations and social media icons.
 
@@ -61,6 +68,26 @@ for (option of options) {
 }
 ```
 
-## Demo.gif
+---
 
-![Image](https://github.com/user-attachments/assets/d8714591-c401-45e1-9de0-e909a920047c)
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
+
+GitHub | urstrulybhavana1432@gmail.com
+
+---
+
+
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
